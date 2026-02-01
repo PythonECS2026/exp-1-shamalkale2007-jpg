@@ -1,6 +1,10 @@
 # AIM: Create a personalized greeting message
-#      User enters name: eg: Shibu. and the program should print "Hello, Shibu" 
+#      User enters name: eg: Shibu. and theprogram should print "Hello, Shibu" 
 # Coder: 
 # Date:
+name = input("Shibu ")
+age = input(33)
 
-# Write your code here
+print("\nWelcome to Rizvi College of Engineering")
+print(f"Hello, {Shibu}")
+print(f"You are {33} years old.")
