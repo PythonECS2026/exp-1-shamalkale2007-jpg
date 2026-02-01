@@ -1,7 +1,7 @@
 # AIM: Create a personalized greeting message
 #      User enters name: eg: Shibu. and theprogram should print "Hello, Shibu" 
-# Coder: 
-# Date:
+# Coder: Shamal 
+# Date:26/01/26
 name = input("Shibu ")
 age = input(33)
 
